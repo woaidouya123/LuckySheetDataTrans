@@ -1,0 +1,19 @@
+{
+  "name": "luckysheetimport",
+  "version": "1.0.0",
+  "description": "基于luckyexecl进行excel文件读取的node服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "serve": "node server.js"
+  },
+  "author": "Albert",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dayjs": "^1.11.10",
+    "express": "^4.18.2",
+    "jszip": "^3.10.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
