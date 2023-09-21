@@ -4,7 +4,7 @@
   "description": "基于luckyexecl进行excel文件读取的node服务",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js",
+    "start": "node index.js",
     "serve": "node server.js"
   },
   "author": "Albert",
